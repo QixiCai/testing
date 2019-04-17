@@ -1,2 +1,5 @@
 printf{"Hello world."};
  return 0;
+ testing;
+ testing;
+ testing;
